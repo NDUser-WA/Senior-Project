@@ -1,0 +1,18 @@
+GRADE POINT AVERAGE
+The Grade point average (GPA) or index is the ratio of the total quality point values divided
+by the number of the credit hours attempted by the student, as shown below.
+Course Number Grade Credit Hours Quality Point Total Quality
+& Designation Earned Attempted Values Point Values
+ARB 211 B+ 3 × 3.3 = 9.9
+MGT 425 A 4 × 4 = 16
+HUT 305 D 3 × 1 = 3
+MAT 215 F 3 × 0 = 0
+CSC 200 C- 1 × 1.7 = 1.7
+14 30.6
+The GPA of the five courses would then be:
+which is equivalent to a grade of “C.” Students are expected to know how to compute
+their own GPA. Courses with a grade of “W,” “U,” “PR,” or “I” are not counted in
+computing the cumulative GPA. The same applies to all transfer courses. Hence, grades
+for work done at institutions other than NDU are not included in the GPA. Only courses
+and credits may be transferred. Thus, the cumulative GPA is an average of all the credit
+hours attempted by the student at NDU.

@@ -1,0 +1,3 @@
+ATTENDANCE AFTER WITHDRAWING
+Once a student has withdrawn from a course, he or she cannot continue to attend or
+audit this course during the same semester.
