@@ -1,0 +1,14 @@
+Designation and Belonging
+The letters preceding the course number indicate the area or subject of study to which
+the course belongs. The following is a designation list grouped by Department and Faculty
+affiliations.
+Faculty of Engineering (FE)
+ENG - General Engineering
+Department of Civil and Environmental Engineering
+CEN - Civil Engineering
+PEN - Petroleum Engineering
+Departments of Electrical and Computer and Communication Engineering
+EEN - Electrical Engineering and Computer and Communication Engineering
+Department of Mechanical Engineering
+CHE - Chemical Engineering
+MEN - Mechanical Engineering

@@ -1,0 +1,33 @@
+Designation and Belonging
+The letters preceding the course number indicate the area or subject of study to which
+the course belongs. The following is a designation list grouped by Department and Faculty
+affiliations.
+Faculty of Humanities (FH)
+Department of English and Translation
+ARB - Arabic
+CHI - Chinese
+ENL - English
+FRC - French
+GEM - German
+INT - Interpretation
+ITL - Italian
+LIR - Literature
+LTN - Latin
+POR - Portuguese
+ROC - Romance Languages
+SPA - Spanish
+SYR - Syriac
+TRA - Translation
+Department of Media Studies
+ADM - Advertising
+AVF - Audio Visual and Films
+COA - Communication Arts
+JOU - Journalism
+Department of Psychology, Education, and Physical Education
+EDU - Education
+PES - Physical Education
+PSL - Psychology
+Department of Religious, Cultural, and Philosophical Studies
+PHL - Philosophy
+REG - Religion
+SOL - Sociology

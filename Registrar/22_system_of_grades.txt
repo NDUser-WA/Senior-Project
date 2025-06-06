@@ -1,71 +1,35 @@
+
 SYSTEM OF GRADES
-The University uses the following system of grades. This system consists of letter grades
-with their corresponding numerical ranges (i.e., percentage equivalent and the 4.0 point
-maximum).
-Grade Description Quality Percentage
- Point Value Equivalent
-A+ Outstanding 4.0 97 - 100
-A Excellent 4.0 93 - 96
-A-- Very Good 3.7 89 - 92
-B+ Good 3.3 85 - 88
-B Good 3.0 80 - 84
-B-- Good 2.7 77 - 79
-C+ Satisfactory 2.3 73 - 76
-C Satisfactory 2.0 70 - 72
-C-- Passing 1.7 66 - 69
-D+ Passing 1.3 63 - 65
-D Lowest Passing 1.0 60 - 62
-F Failure 0.0 0 - 59
-UW Unofficial Withdrawal The “UW” grade is assigned by the instructor when a
-registered student has never attended a class or has ceased
-attending and has not submitted an official course withdrawal
-request to the Office of the Registrar. This grade is computed
-as an “F” grade in the GPA.
 
-W Official Withdrawal The “W” grade indicates withdrawal without academic
-penalty. This grade is issued by the Office of the Registrar only
-to students submitting an official course withdrawal form by
-the scheduled deadline. The grade “W” is not computed in the
-student’s GPA and may not be changed to any other grade
-under any circumstances.
+The University uses letter grades with corresponding quality points (on a 4.0 scale) and percentage ranges.
 
-PR Progress, Re-enroll The “PR” grade is a provisional grade, and hence it is not
-computed in the student’s GPA. It is used to reflect progress
-on continuing research efforts for the senior study, or the
-senior research, or design project or internship course until it
-is completed a grade of “PR” could remain on the student
-transcript two consecutive regular semesters, after which a
-different grade should be assigned. Otherwise, the “PR”
-grade will automatically turn into “F”.
+Grade | Description         | Quality Point | Percentage
+------|----------------------|----------------|------------
+A+    | Outstanding          | 4.0            | 97–100
+A     | Excellent            | 4.0            | 93–96
+A–    | Very Good            | 3.7            | 89–92
+B+    | Good                 | 3.3            | 85–88
+B     | Good                 | 3.0            | 80–84
+B–    | Good                 | 2.7            | 77–79
+C+    | Satisfactory         | 2.3            | 73–76
+C     | Satisfactory         | 2.0            | 70–72
+C–    | Passing              | 1.7            | 66–69
+D+    | Passing              | 1.3            | 63–65
+D     | Lowest Passing       | 1.0            | 60–62
+F     | Failure              | 0.0            | 0–59
 
-U Audit The “U” grade indicates that the individual was an auditor
-or listener in the course. This does not have any quality point
-value, credits nor a written statement can be given for a class
-audited, and no instructor is authorized to admit anyone as an
-auditor to any of his or her classes unless the individual has
-registered as such.
+Special Grades
 
-I Incomplete The “I” grade is a provisional grade, and hence it is not
-computed in the student’s GPA. It indicates that the student
-has for good and justified reasons not completed all course
-requirements, but there is a reasonable expectation that he/
-she will successfully complete it. If this provisional grade is
-unresolved by the end of the 8th week of the following
-semester, the Office of the Registrar will automatically
- convert it to the grade of “F.” The grade will then be computed
-in the student’s GPA. However, students who are out of
-attendance in the semester following the one in which the
-course was taken have one year to complete the work.
-Degree candidates should be aware that an “I” grade
-received during the last semester in any of the courses
-required for graduation will automatically result in the
-postponement of graduation.
+UW (Unofficial Withdrawal): Assigned when a student never attends or stops attending without formal withdrawal. Counts as an F in GPA.
 
-P Pass “P” indicates a passing performance in a course taken in a
-Pass/No Pass. The credits, if any will be added to the number
-of credits passed, but will not be included in the average. It
-has no quality points.
-NP No Pass “NP” indicates a failing performance in courses taken on a
-Pass/No Pass basis. No credits will be added to the student’s
-record, nor will the average will be affected. It has no quality
-points.
+W (Official Withdrawal): Issued upon approved withdrawal by deadline. Not calculated in GPA.
+
+PR (Progress): Temporary grade for ongoing projects (e.g., thesis/internship). Not in GPA. Must be resolved in 2 semesters or becomes F.
+
+U (Audit): Indicates non-credit course attendance. No GPA or credit impact.
+
+I (Incomplete): Temporary grade due to justified unfinished work. Must be resolved by the 8th week of the next semester or turns into F. May delay graduation.
+
+P (Pass): Earned in Pass/No Pass courses. Credit awarded; not included in GPA.
+
+NP (No Pass): No credit; no GPA impact.

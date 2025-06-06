@@ -1,0 +1,35 @@
+Digits of a Course Number
+
+The following digits are used as follows:
+
+First Digit:
+FNAS, FNHS, FBAE, and FH:
+0 - Non-Credit Remedial Courses
+1 - Freshman Course
+2 - Sophomore Course
+3 - Junior Course
+4 - Senior Course (Undergraduate Only)
+5 - Courses considered preparatory for graduate studies. When passed, their credits should not be counted in the total of credits required for graduation and they should be completed during the first academic year.
+6 or higher - Graduate Course
+
+ENG, RCT, VIA:
+0 - Year 0
+1 - Year 1
+2 - Year 2
+3 - Year 3
+4 - Year 4
+5 - Year 5
+6 - Year 6
+
+Second Digit for Undergraduate and Possibly Graduate Courses:
+0 - Basic Level Course
+1 - Elementary Level Course
+2-4 - Intermediate Level Course
+5 - Advanced Level Course
+6 - Special Topics or Practicum I
+7 - Laboratory Workshop or Practicum II
+8 - Seminar or Internship
+9 - Senior Study, Senior Project, Thesis, or Research Project
+
+Third Digit:
+Any digit ranging from 0 to 9

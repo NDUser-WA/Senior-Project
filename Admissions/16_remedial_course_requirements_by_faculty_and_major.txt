@@ -1,0 +1,54 @@
+REMEDIAL COURSE REQUIREMENTS BY FACULTY AND MAJOR
+Ramez G. Chagoury, Faculty of Architecture, Arts and Design:
+- Major: Architecture
+  - Remedial Courses:
+    - MAT 103 (Grade C-)
+    - PHS 101 (Grade C-)
+
+Faculty of Business Administration and Economics:
+- All Majors
+  - Remedial Course:
+    - MAT 105 (Grade D)
+
+Faculty of Engineering:
+- All Majors
+  - Remedial Course:
+    - MAT 112 (Grade B)
+
+Faculty of Natural and Applied Sciences:
+
+- Biology, Biochemistry, Environmental Science:
+  - MAT 101 (Grade D)
+  - CHM 101 or BIO 101 (Grade D)
+
+- Information Technology and Computer Graphics and Animation:
+  - MAT 105 (Grade D)
+  - CHM 101 or PHS 101 or BIO 101 (Grade D)
+
+- Mathematics, Actuarial Sciences:
+  - MAT 112 (Grade C-)
+  - CHM 101 or PHS 101 or BIO 101 (Grade D)
+
+- Physics:
+  - MAT 112 (Grade C-)
+  - PHS 101 (Grade C-)
+
+- Chemistry:
+  - MAT 112 (Grade D)
+  - CHM 101 or PHS 101 or BIO 101 (Grade D)
+
+- Computer Science:
+  - MAT 112 (Grade D)
+  - One or two from:
+    - CHM 101, PHS 101, BIO 101 (Grade D)
+
+- Management Information Systems:
+  - MAT 101 (Grade D)
+
+Faculty of Nursing and Health Sciences:
+
+- All Majors:
+  - MAT 101 (Grade D)
+
+- Food Safety and Quality Management:
+  - MAT 111 (Grade D)

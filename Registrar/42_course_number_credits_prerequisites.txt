@@ -1,0 +1,24 @@
+C. Course Number, Title, and Credits
+
+Example:
+MAT 215 - Linear Algebra I - (3.0) - 3 cr.
+
+- Official Course Code (Number Abbreviation)
+- Official Course Title
+- The first component of the ordered pair (3.0) designates the number of lecture hours/week.
+- The second component is the number of laboratory hours/week.
+- The number of credits (cr.) is earned if the course is successfully completed.
+
+Lecture hours/week:
+- Each lecture hour lasts for a period of 50 minutes.
+
+Credits:
+- Based on the number of 50-minute periods scheduled weekly during one semester or Summer session.
+- One credit equals either:
+  - A minimum of one 50-minute period of class work per week for 15 weeks, or
+  - 2–3 hours of laboratory work per week over the same period or its equivalent.
+
+D. Course Prerequisite and Corequisite
+
+- A **prerequisite** is a course that must be completed before registering for the subject course.
+- A **corequisite** is a prerequisite course that may be taken concurrently with the subject course.

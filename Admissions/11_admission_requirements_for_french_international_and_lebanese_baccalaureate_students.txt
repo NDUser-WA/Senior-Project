@@ -1,0 +1,61 @@
+ADMISSION REQUIREMENTS – FRENCH, INTERNATIONAL, AND LEBANESE BACCALAUREATE
+
+All applicants must meet Math proficiency and Composite Score requirements of the Faculty.
+Remedial courses may be assigned upon admission.
+
+Ramez G. Chagoury Faculty of Architecture, Arts & Design:
+- French Baccalaureate: No specific requirements.
+- International Baccalaureate: Architecture applicants may be assigned MAT103 and PHS101 based on Composite Score.
+- Lebanese Baccalaureate: Not specified.
+
+Faculty of Business Administration and Economics:
+- French Baccalaureate: No specific requirements.
+- International Baccalaureate: MAT105 may be assigned depending on Composite Score.
+- Lebanese Baccalaureate: Not specified.
+
+Faculty of Engineering:
+- French Baccalaureate: Must show one Math and one Science from: Physique-Chimie, SVT, NSI, Sciences de l’ingénieur.
+- International Baccalaureate: Math HL and Physics + one SL Science required.
+  - Chemical Engineering: Only Math HL and Chemistry SL required.
+- Remedial: MAT112 may be assigned based on Composite Score.
+
+Faculty of Humanities:
+- No specific requirements for all baccalaureate types.
+
+Faculty of Law and Political Science:
+- Applicants must hold Lebanese Baccalaureate or equivalent (French or International).
+- Must be of Lebanese nationality.
+
+Faculty of Natural and Applied Sciences (FNAS) – French Baccalaureate:
+- Physics: Math ✓, Physique-Chimie ✓ (else PHS101).
+- Computer Science: Math ✓, SVT (*).
+- Math, CGA, IT, Chemistry, Actuarial Sciences: Math ✓, PC ✓, PC or SVT ✓ (PHS101, BIO101, CHM101 as needed).
+- Biology, Biochemistry, Environmental Science: Math ✓, SVT ✓ (BIO101 or CHM101 if needed).
+- MIS: No specific requirements.
+
+FNAS – International Baccalaureate:
+- Math/Actuarial Sciences: Math HL ✓, SL Science ✓ (remedials: PHS101/BIO101/CHM101).
+- Physics: Math HL ✓, SL Physics ✓ (else PHS101).
+- Computer Science: Math HL ✓, HL or SL Science ✓.
+- IT, CGA, Chemistry: Math HL ✓, SL Science ✓ (remedials if needed).
+- Biology, Biochemistry, Environmental Science: Math HL ✓, SL Science ✓ (BIO101 or CHM101 as needed).
+- MIS: No specific requirements.
+
+FNAS – Lebanese Baccalaureate:
+
+Major                                   | General Sciences | Sociology & Economy         | Literature & Humanities
+---------------------------------------|------------------|------------------------------|--------------------------
+Physics                                 | ✓                | MAT112 and PHS101           | —
+Actuarial Sciences                      | ✓                | MAT112 and PHS101/BIO101/CHM101 | —
+Mathematics                             | ✓                | ✓ (MAT112)                  | —
+Computer Science                        | ✓                | ✓ (MAT112 + PHS101 or CHM101) | —
+IT, CGA                                 | ✓                | ✓                            | —
+Chemistry                               | ✓                | ✓ (MAT112 + BIO101 or CHM101) | —
+Biology, Biochemistry, Env Science      | ✓                | ✓                            | ✓ (BIO101 or CHM101)
+Management Information Systems (MIS)    | ✓                | ✓                            | ✓
+
+Abbreviations:
+BIO101: Introduction to Biology
+CHM101: General Chemistry I
+PHS101: General Physics I
+MAT112: Calculus and Analytic Geometry II

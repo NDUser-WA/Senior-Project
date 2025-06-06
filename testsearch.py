@@ -32,7 +32,8 @@ while True:
     # Search FAISS index
     D, I = index.search(query_vector.astype('float32'), k=3)
 
-    # Display results
+    # Gather content for prompt
+    retrieved_chunks = []
     print("\n🔍 Top results:\n")
     for rank, idx in enumerate(I[0]):
         file_path = file_paths[idx]
@@ -40,9 +41,29 @@ while True:
 
         try:
             with open(file_path, "r", encoding="utf-8") as f:
-                preview = f.read(500)
-                print("Preview:", preview.strip().replace("\n", " ") + "...")
+                content = f.read(3000)
+                cleaned = content.strip().replace("\n", " ").replace("  ", " ")
+                print("Preview:", cleaned[:300] + "...")
+                retrieved_chunks.append(f"Source {rank+1}:\n{cleaned}")
         except Exception as e:
             print(f"❌ Could not read file: {e}")
 
         print("\n" + "-" * 80 + "\n")
+
+    # Build LLM prompt
+    if retrieved_chunks:
+        print("🧠 Suggested Prompt for LLM:\n")
+        context = "\n\n".join(retrieved_chunks)
+        prompt = (
+            "You are an AI assistant that helps answer student questions strictly based on official university registrar information. "
+            "This includes rules about registration, class schedules, attendance, grading, withdrawals, exams, and academic policies.\n\n"
+            "Before answering, check that the following question is related to the registrar domain. "
+            "If it is not, politely respond that this question falls outside the registrar's scope.\n\n"
+            "Then, use the documents below to answer the question accurately and clearly. "
+            "Only use information that is directly supported by the retrieved content.\n\n"
+            "Retrieved documents:\n\n"
+            f"{context}\n\n"
+            f"Student's question:\n{query}\n\n"
+            "Answer:"
+        )
+        print(prompt)

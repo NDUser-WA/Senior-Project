@@ -1,0 +1,22 @@
+Designation and Belonging
+The letters preceding the course number indicate the area or subject of study to which
+the course belongs. The following is a designation list grouped by Department and Faculty
+affiliations.
+Faculty of Natural and Applied Sciences (FNAS)
+Department of Computer Science
+CSC - Computer Science
+GIS - Geographic Information Systems
+MIS - Management Information Systems
+Department of Mathematics and Statistics
+ACS - Actuarial Sciences
+FMA - Financial Mathematics
+MAT - Mathematics
+STA - Statistics
+Department of Physics and Astronomy
+AST - Astronomy
+PHS - Physics
+Department of Sciences
+BIO - Biology
+CHM - Chemistry
+ENS - Environmental Science
+GEO - Geology

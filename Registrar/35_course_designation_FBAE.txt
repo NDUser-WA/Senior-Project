@@ -1,0 +1,34 @@
+Designation and Belonging
+The letters preceding the course number indicate the area or subject of study to which
+the course belongs. The following is a designation list grouped by Department and Faculty
+affiliations.
+Faculty of Business Administration and Economics (FBAE)
+Department of Accounting and Finance
+ACO - Accounting
+BAF - Banking and Finance
+FEN - Financial Engineering
+Department of Economics
+ECN - Economics
+Department of Management and Marketing
+MGT - Management
+HCM - Health Care Management*
+MRK - Marketing
+HRM - Human Resource Management
+ENT - Entrepreneurship
+Department of Hospitality and Tourism Management
+FBM - Food and Beverage Management
+TTM - Travel and Tourism Management
+HTM - Hospitality Management
+HVM - Hospitality Events Management
+Graduate Division
+FIN - Finance
+QMT - Quantitative Methods
+BUS - Business
+HRM - Human Resources
+MBS - Business Strategy
+MGT - Management
+MRK - Marketing
+ECN - Economics
+ACO - Accounting
+FRM - Financial Risk Management
+PRM - Project Management
